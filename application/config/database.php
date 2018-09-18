@@ -99,8 +99,8 @@ $db['default'] = array(
 $db['pdo'] = array(	
 	'dsn'	   => 'mysql:host=localhost;dbname=myci_datatables',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'BM050258',
+	'username' => '',
+	'password' => '',
 	'database' => 'myci_datatables',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
