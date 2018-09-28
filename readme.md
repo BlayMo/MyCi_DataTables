@@ -41,4 +41,4 @@ El software de terceros se distribuye bajo sus respectivas licencias.
 El código desarrollado en el proyecto se distribuye bajo licencia MIT.  
 Todo se ha desarrollado para ser compartido y con la intención de que pueda ser de utilidad a otros desarrolladores. [Contacto](mailto:expresoweb2015@gmail.com)
 
-Page rendered in **0.0454** seconds. CodeIgniter Version **3.1.9**
+ CodeIgniter Version **3.1.9**
